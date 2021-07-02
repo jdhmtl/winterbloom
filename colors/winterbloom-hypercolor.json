@@ -31,10 +31,6 @@
         "FFF781": "Yellow"
     },
     "grouped": {
-        "background": "282634",
-        "foreground": "F8F8F0",
-        "selection": "8077A8",
-        "selectionText": "C6C4CC",
         "blacks": {
             "131218": "Very dark purple",
             "3C374D": "Very dark purple",
