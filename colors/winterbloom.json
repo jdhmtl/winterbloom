@@ -1,0 +1,124 @@
+{
+    "colors": {
+        "1BC5E0": "Bright blue",
+        "2CB5CC": "Turquoise",
+        "31CAE3": "Sky blue",
+        "353144": "Almost black",
+        "3A3553": "Also very dark",
+        "3C374D": "Very dark",
+        "433E56": "Background",
+        "464258": "Also very dark",
+        "48425C": "Also very dark",
+        "555166": "Purple, dark, with grey",
+        "686477": "Dark grey, purple tones",
+        "6C677C": "Dark grey",
+        "716799": "Purple",
+        "7D7796": "Another purple",
+        "7F5C68": "Darker brown",
+        "8077A8": "Purple",
+        "A37C8A": "Similar brown",
+        "A8757B": "Kinda brown",
+        "B0BEC5": "Very light grey",
+        "B9B9B9": "Almost white",
+        "C2FFDF": "Pale green",
+        "C5A3FF": "Lavender",
+        "C6C4CC": "Light grey",
+        "C990A5": "Darker dusty rose",
+        "CEB1FF": "Also lavender",
+        "DBA6BA": "Dusty rose",
+        "F97777": "Salmon",
+        "FF857F": "Another salmon",
+        "FFB8D1": "Pale pink",
+        "FFF352": "Yellow",
+        "F8F8F0": "Cursor",
+        "F8F8F2": "Foreground"
+    },
+    "grouped": {
+        "blacks": {
+            "353144": "Almost black",
+            "3C374D": "Very dark",
+            "555166": "Purple, dark, with grey",
+            "686477": "Dark grey, purple tones"
+        },
+        "reds": {
+            "A37C8A": "Similar brown",
+            "A8757B": "Kinda brown",
+            "7F5C68": "Darker brown",
+            "C990A5": "Darker dusty rose",
+            "DBA6BA": "Dusty rose",
+            "F97777": "Salmon",
+            "FF857F": "Another salmon",
+            "FFB8D1": "Pale pink"
+        },
+        "greens": {
+            "C2FFDF": "Pale green"
+        },
+        "yellows": {
+            "FFF352": "Yellow"
+        },
+        "blues": {
+            "1BC5E0": "Bright blue",
+            "2CB5CC": "Turquoise",
+            "31CAE3": "Sky blue"
+        },
+        "magentas": {
+            "3A3553": "Also very dark",
+            "433E56": "Background",
+            "464258": "Also very dark",
+            "48425C": "Also very dark",
+            "716799": "Purple",
+            "7D7796": "Another purple",
+            "8077A8": "Purple",
+            "C5A3FF": "Lavender",
+            "CEB1FF": "Also lavender"
+        },
+        "cyans": {
+        },
+        "whites": {
+            "6C677C": "Dark grey",
+            "B0BEC5": "Very light grey",
+            "B9B9B9": "Almost white",
+            "C6C4CC": "Light grey",
+            "F8F8F0": "Cursor",
+            "F8F8F2": "Foreground"
+        }
+    },
+    "selected": {
+        "background": "433E56",
+        "foreground": "F8F8F2",
+        "selection": "8077A8",
+        "selectionText": "C6C4CC",
+        "black": {
+            "normal": "555166",
+            "bright": "686477"
+        },
+        "red": {
+            "normal": "C990A5",
+            "bright": "DBA6BA"
+        },
+        "green": {
+            "normal": "C2FFDF",
+            "bright": "C2FFDF"
+        },
+        "yellow": {
+            "normal": "FFF352",
+            "bright": "FFF352"
+        },
+        "blue": {
+            "normal": "2CB5CC",
+            "bright": "31CAE3"
+        },
+        "magenta": {
+            "normal": "C5A3FF",
+            "bright": "CEB1FF"
+        },
+        "cyan": {
+            "normal": "716799",
+            "bright": "8077A8"
+        },
+        "white": {
+            "normal": "B9B9B9",
+            "bright": "F8F8F2"
+        }
+    }
+}
